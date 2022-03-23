@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foton", "Foton\Foton.fsproj", "{DEC80610-E639-4BDD-BDDF-95420AE4EC50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC80610-E639-4BDD-BDDF-95420AE4EC50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC80610-E639-4BDD-BDDF-95420AE4EC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC80610-E639-4BDD-BDDF-95420AE4EC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC80610-E639-4BDD-BDDF-95420AE4EC50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832750A4-4E04-4C5B-819F-061D1B92907A}
+	EndGlobalSection
+EndGlobal
